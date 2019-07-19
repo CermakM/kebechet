@@ -10,9 +10,9 @@ repositories:
       - name: version
         configuration:
           maintainers:
-            - cermakm
+            - CermakM
           assignees:
-            - cermakm
+            - CermakM
           changelog_file: true
 
   - slug: CermakM/jupyter-require
@@ -25,7 +25,7 @@ repositories:
       - name: version
         configuration:
           maintainers:
-            - cermakm
+            - CermakM
           assignees:
-            - cermakm
+            - CermakM
           changelog_file: true
