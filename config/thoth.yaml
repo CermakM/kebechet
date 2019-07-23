@@ -4,7 +4,6 @@ repositories:
     token: '{KEBECHET_TOKEN}'
     managers:
       - name: info
-      - name: update
         configuration:
           labels: [bot]
       - name: version
@@ -19,7 +18,6 @@ repositories:
     token: '{KEBECHET_TOKEN}'
     managers:
       - name: info
-      - name: update
         configuration:
           labels: [bot]
       - name: version
